@@ -55,6 +55,38 @@
 <br />
 
 
+4. Sign in as an agent to work the ticket
+
+<p align="center">
+<img src="https://imgur.com/Nd1zTAn.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+4b. When you see the ticket, go into the subject to view the ticket 
+
+<p align="center">
+<img src="https://imgur.com/fAiTtAA.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+4c. Once the ticket is resolved, explain the fix, choose the status and reply to the customer.
+
+<p align="center">
+<img src="https://imgur.com/6gwPhFx.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
+
+
+4d. Ticket is closed
+
+<p align="center">
+<img src="https://imgur.com/pWGnh3A.png alt="Traffic Examination"/>
+</p>
+<br />
+<br />
 
 
 
