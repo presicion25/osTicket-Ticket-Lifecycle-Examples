@@ -89,7 +89,11 @@
 <br />
 
 
+This is the end of the tutorial series on osTicket. <h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
+<br />
+<br />
 
 
+This has been an Exemplary Security Tutorial. (2023)
 
 
