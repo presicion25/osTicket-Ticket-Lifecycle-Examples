@@ -12,7 +12,7 @@
 <br />
 <br />
 
-2.
+1b.
 
 <p align="center">
 <img src="https://imgur.com/nvHJcUi.png alt="Traffic Examination"/>
@@ -21,7 +21,7 @@
 <br />
 
 
-3. Enter the ticket details, create the ticket and log out
+2. Enter the ticket details, create the ticket and log out
 
 <p align="center">
 <img src="https://imgur.com/WZ8xo1T.png alt="Traffic Examination"/>
