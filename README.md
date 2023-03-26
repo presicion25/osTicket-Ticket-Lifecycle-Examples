@@ -12,7 +12,7 @@
 <br />
 <br />
 
-2b.
+2.
 
 <p align="center">
 <img src="https://imgur.com/nvHJcUi.png alt="Traffic Examination"/>
